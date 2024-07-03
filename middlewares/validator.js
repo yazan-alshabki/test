@@ -25,6 +25,6 @@ const add_a_magic_item = [
 ]
 
 module.exports = {
-  add_a_magic_mover, // user
-  add_a_magic_item, // user
+  add_a_magic_mover,
+  add_a_magic_item,
 };
